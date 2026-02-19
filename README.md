@@ -1,52 +1,40 @@
-<h1 align="center"> DevLinks </h1>
+# 🔗 DevLink Site
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
-
-## 💻 Projeto
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+Este é um projeto de uma página de "Links da Bio" (estilo Linktree), desenvolvido para centralizar redes sociais e portfólio de forma personalizada e elegante.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+## 🚀 Tecnologias Utilizadas
+
+O projeto foi construído utilizando as tecnologias fundamentais da web:
+
+* **HTML5**: Estruturação do conteúdo.
+* **CSS3**: Estilização, layout responsivo e efeitos visuais.
+* **JavaScript**: Lógica para troca de temas (Light/Dark Mode) e interatividade.
+* **Git & GitHub**: Controle de versão e hospedagem.
+
+---
+
+## 📸 Demonstração
+
+Você pode visualizar o projeto:
+> https://gustavo-h3nrique.github.io/DevLink-Site/
+
+---
+
+## ✨ Funcionalidades
+
+- [x] Interface responsiva (funciona em celular e desktop).
+- [x] Botão de alternância entre modo claro e modo escuro.
+- [x] Links clicáveis com ícones sociais.
+- [x] Foto de perfil centralizada com descrição personalizada.
+
+---
+
+## 🛠️ Como rodar o projeto localmente
+
+Se desejar testar o projeto na sua máquina:
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/Gustavo-H3nrique/DevLink-Site.git](https://github.com/Gustavo-H3nrique/DevLink-Site.git)
