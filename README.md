@@ -2,6 +2,8 @@
 
 Este é um projeto de uma página de "Links da Bio" (estilo Linktree), desenvolvido para centralizar redes sociais e portfólio de forma personalizada e elegante.
 
+<img width="1683" height="779" alt="image" src="https://github.com/user-attachments/assets/a6379fc2-6896-4893-ac97-310711a1d460" />
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
